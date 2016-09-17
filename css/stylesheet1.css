@@ -1,1 +1,28 @@
-/* stylsheet for BIgRedHacks */
+/* stylsheet for BigRedHacks */
+* {
+	max-width: 100%;
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+}
+#header{
+	background-color: #0EBFE9;
+	/*text-align: center;*/
+}
+#homeLogo{
+	height: 22%;
+	width: 22%;
+	float: left;
+}
+.entry{
+	float: right;
+	height: 15px;
+	width: 100px;
+}
+#username{
+	/*display: inline-block;*/
+
+}
+#password{
+	/*display: inline-block;*/
+}
